@@ -1,0 +1,30 @@
+table
+{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  width: 80%;
+  height: 80%;
+  border-collapse: collapse;
+
+}
+table, td, tr
+{
+  text-align: center;
+  border: 1px solid black;
+  padding: 10px
+}
+h1
+{
+  text-align: center;
+
+}
+#playingfield
+{
+  background-color: lightgreen;
+  width: 512px;
+  height: 512px;
+  margin-left: auto;
+  margin-right: auto;
+}
